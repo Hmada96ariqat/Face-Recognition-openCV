@@ -1,5 +1,5 @@
 
-# Face Recognition with OpenCV and Python
+# Face Recognition with OpenCV 
 
 
 ```python
